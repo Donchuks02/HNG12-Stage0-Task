@@ -4,7 +4,7 @@
 This project is a public API built using Django REST Framework (DRF) that retrieves my basic information in JSON format. The API provides the following details:
 - My email
 - Current datetime as an ISO 8601 formatted timestamp
-- This Project GitHub Repo URL
+- This Project's GitHub Repo URL
 
 The API also includes Cross-Origin Resource Sharing (CORS) handling to allow secure requests from different origins.
 
@@ -107,8 +107,8 @@ To deploy the API, follow these general steps:
 3. Configure environment variables for production.
 4. Apply migrations and start the production server.
 
-## License
-This project is licensed under the MIT License.
+## Backlink
+ - https://hng.tech/hire/python-developers
 
 ## Author
 - **Chukwudi David Okoro** - [GitHub](https://github.com/Donchuks02)
